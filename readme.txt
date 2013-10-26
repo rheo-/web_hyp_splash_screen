@@ -15,3 +15,17 @@ see samples for more.
 
 -Tariqul Islam Ponir
 ponir(dot)bd(at)hotmail(dot)com
+
+-----------------------------------------------------
+Added by rheo-
+-----------------------------------------------------
+
+Tested in Chrome 30, Firefox 22, IE 10.
+
+Changes:
+Spiced things up a bit
+Cleaned up the css
+
+To do:
+Clean the css even more, still loads of junk left
+
