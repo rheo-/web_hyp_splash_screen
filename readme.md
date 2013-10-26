@@ -23,9 +23,9 @@ Added by rheo-
 Tested in Chrome 30, Firefox 22, IE 10.
 
 Changes:
-Spiced things up a bit
+Spiced things up a bit,
 Cleaned up the css
 
 To do:
-Clean the css even more, still loads of junk left
+Clean the css even more, still loads of junk left (no offense, Ponir!)
 
