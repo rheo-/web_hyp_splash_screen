@@ -8,7 +8,7 @@ And you are done. You can add your own elements and style rules inside the splas
 Example:
 
 <div id="hyp_splash_screen">
-    <button id=hyp_splash_terminate">START</button>
+    <button id="hyp_splash_terminate">START</button>
 </div>
 
 see samples for more.
