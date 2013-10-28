@@ -6,10 +6,11 @@ Tariqul Islam Ponir
 ponir(dot)bd(at)hotmail(dot)com
 */
 
-html{
-	min-height:100%;
-	min-width:100%;
-	overflow:hidden;
+body {
+	font:16px Verdana, Geneva, Sans-serif
+}
+.centered {
+	text-align: center
 }
 
 #hyp_splash_screen{
@@ -19,4 +20,35 @@ html{
 	min-height:100%;
 	min-width:100%;
 	z-index:1000;
+	background-color: #FAFAFA;
+}
+
+.hello{
+	font: bold 60px Verdana, Geneva, sans-serif;
+	text-align: center;
+	color: rgba(95, 95, 95, 0.6);
+	text-shadow: 2px 2px 3px rgba(5, 5, 5, 0.2);
+}
+
+.button_start{
+	position:absolute;
+    top:75%; 
+    left:75%;
+	font: 20px Verdana, Geneva, sans-serif;
+	padding: 10px 20px;	
+	border: none;
+	color: white;
+	background-color: #56BAEC;
+	cursor: pointer;
+	transition: all 0.7s ease;
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+}
+
+.button_start:hover{
+	background-color: #5DDD17;
+	transform: rotate(360deg) scale(1.5);
+	-webkit-transform: rotate(360deg) scale(1.5);
+	-ms-transform: rotate(360deg) scale(1.5);
 }
