@@ -33,4 +33,4 @@ To do:
 Changes:
 * The css is now much cleaner and more manageable
 * Also tweaked the javascript a bit
-* Included jquery-1.10.1.min.js in the js folder
+* Included jquery-1.10.2.min.js in the js folder
