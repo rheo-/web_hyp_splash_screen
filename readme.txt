@@ -6,26 +6,26 @@ Include the files splash_screen.css and splash_screen.js in the HTML. And also i
 And you are done. You can add your own elements and style rules inside the splash screens.
 
 Example:
-
+<pre><code>
 <div id="hyp_splash_screen">
     <button id="hyp_splash_terminate">START</button>
 </div>
-
+</code></pre>
 see samples for more.
 
 -Tariqul Islam Ponir
 ponir(dot)bd(at)hotmail(dot)com
 
 -----------------------------------------------------
-Added by rheo-
------------------------------------------------------
+#### Added by rheo-
+
 
 Tested in Chrome 30, Firefox 22, IE 10.
 
 Changes:
-Spiced things up a bit,
-Cleaned up the css
+* Spiced things up a bit
+* Cleaned up the css
 
 To do:
-Clean the css even more, still loads of junk left (no offense, Ponir!)
+* Clean the css even more, still loads of junk left (no offense, Ponir!)
 
