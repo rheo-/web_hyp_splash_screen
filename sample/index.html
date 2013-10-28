@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Web Splash Sample</title>
+		<title>Splash Screen</title>
 		<link href="css/splash_screen.css" rel="stylesheet"/>
-		<link href="css/custom.css" rel="stylesheet"/>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="js/splash_screen.js"></script>
 	</head>
 	<body>
-		<div id="hyp_splash_screen" class="splash_sample">
+		<div id="hyp_splash_screen">
 			<h1 class="hello">Mindboggling Splash Screen</h1>
 			<br>
 			<br>
 			<br>
-			<p>I wonder what that little button does?</p>
+			<p class="centered">I wonder what that little button does?</p>
 			<button id="hyp_splash_terminate" class="button_start">Let's go!</button>
 		</div>
 		
-		<div>
+		<div class="page-wrapper">
 			<p class="centered">Hey, that was fun!</p>
 			<p class="centered"><a href="javascript:history.go(0)">Let's do it again!</a></p>
 		</div>
+			
+		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/splash_screen.js"></script>
 	</body>
-
 </html>
